@@ -30,6 +30,6 @@ A simple To-Do List application built using HTML, CSS, and JavaScript.
 
 This project was created as part of my JavaScript learning journey to practice JavaScript functionality and DOM manipulation.
 
-## 👨‍💻 Author
+## Akash-Goriga
 
 Created with ❤️ using HTML, CSS, and JavaScript.
